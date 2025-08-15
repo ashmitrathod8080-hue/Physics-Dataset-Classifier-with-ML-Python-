@@ -41,4 +41,22 @@ pip install scikit-learn matplotlib
 
 python physics_classifier.py
 
+Example Output
 
+The model achieved ~89.5% accuracy on the test dataset.
+A confusion matrix visualizes correct and incorrect classifications:
+
+Possible Extensions
+
+Use real open-source physics datasets from CERN or Kaggle
+
+Test other classifiers (SVM, Gradient Boosting)
+
+Add feature importance visualization
+
+Tune hyperparameters for improved accuracy
+
+Author
+
+Ashmit Rathod – B.E Computer Science student at KLE Technological University, Belagavi
+Interests: Computational Physics, AI/ML, Scientific Computing, Data Analysis
