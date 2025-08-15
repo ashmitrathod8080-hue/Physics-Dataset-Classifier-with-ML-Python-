@@ -28,16 +28,16 @@ This project provides hands-on experience with **data preprocessing, training, e
 ## Installation & Usage
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/physics-event-classifier.git
 cd physics-event-classifier
 
 ### 2. Install Dependencies
-```bash
+
 pip install scikit-learn matplotlib
 
 ### 3. Run the Classifier
-```bash
+
 
 python physics_classifier.py
 
